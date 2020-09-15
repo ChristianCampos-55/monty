@@ -77,4 +77,3 @@ Commands:
 By:
 
 	Christian Campos
-	Sneyder Amador
